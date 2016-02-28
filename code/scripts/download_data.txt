@@ -1,0 +1,5 @@
+# original source
+# http://www.stat.ufl.edu/~winner/data/cyclone.txt
+
+# download Cyclones around Antarctica
+curl -O http://www.stat.ufl.edu/~winner/data/cyclone.dat

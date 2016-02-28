@@ -1,0 +1,14 @@
+Dataset:  cyclone.dat
+
+Source: D.A. Howarth (1983), "An Analysis of the Variability of Cyclones
+Around Antarctica and Their Relation to Sea-Ice Extent", Annals of the 
+Association of American Geographers, Vol. 73, pp 519-537.
+
+Description: Cross-classification of occurrences of cyclones near
+Antactica (9/1973-5/1975) by Latitude Band and Season
+
+Variables/Columns
+
+Latitude Band   1  /* 1=40-49S  2=50-59S  3=60-79S
+Season        3  /* 1=Fall, 2=Winter, 3=Spring, 4=Summer  
+Count   5-8   /* Number of Cyclones
