@@ -1,4 +1,5 @@
-
+# phony target is a target that is always out-of-date,
+.PHONY: data test analysis report
 
 data:
 	cd data && make download_all
